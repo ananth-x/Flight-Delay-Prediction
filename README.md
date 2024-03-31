@@ -10,6 +10,6 @@ This project proposes a two-stage machine learning approach:
 Classification: A model predicts whether a flight will be delayed or arrive on time.  
 Regression: For flights predicted to be delayed, this model predicts the arrival delay in minutes.
 
-Data
+Data  
 Flight Data: Accessible through this link: https://drive.google.com/drive/u/0/folders/1SG-U-9j-kq79JT3_M3j0wiZBjUTQLaqf  
 Weather Data: Accessible through this link: https://drive.google.com/drive/folders/1FH3SzcDlcDVy4QkwB7z4VNi1bE18d0JA
