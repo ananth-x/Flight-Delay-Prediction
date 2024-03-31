@@ -1,13 +1,13 @@
-Flight Arrival Delay Prediction with Two-Stage Machine Learning
+Flight Arrival Delay Prediction with Two-Stage Machine Learning  
 This project aims to develop a two-stage machine learning engine for predicting flight arrival delays at 15 major US airports. The model utilizes data collected between 2016 and 2017 to predict delays in minutes after a flight's departure.
 
-Problem
+Problem  
 Flight delays are a major source of frustration for passengers and can lead to significant financial losses for airlines and countries. A structured prediction system can be a valuable tool for aviation authorities to proactively address this issue.
 
-Solution
+Solution  
 This project proposes a two-stage machine learning approach:
 
-Classification: A model predicts whether a flight will be delayed or arrive on time.
+Classification: A model predicts whether a flight will be delayed or arrive on time.  
 Regression: For flights predicted to be delayed, this model predicts the arrival delay in minutes.
 
 Data
